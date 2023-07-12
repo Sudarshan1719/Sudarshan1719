@@ -1,14 +1,14 @@
-👋 Hello there! My name is Sudarshan Wagh, and welcome to my personal README file. I am a passionate and research-oriented individual with a strong background in MSC Electronics Science. I am currently pursuing my MSC degree at Fergusson College, Pune, specializing in Digital Kissan Kit.
+👋 Hello there! My name is Sudarshan Wagh, and welcome to my personal README file. I am a passionate and research-oriented individual with a strong background in MSC Electronics Science. I am Just Completed my MSC degree at Fergusson College, Pune, specializing in Electronics
 
 ## Education
 🎓 MSc Electronics Science, Fergusson College Pune\
-📅 07/2021 - Present\
+📅 07/2021 - 05/2023
 🎓 GPA: 8.5
 
 🎓 BSc Electronics Science, AAC Manchar, Pune\
 📅 07/2018 - 07/2021\
 🎓 Percentage: 81\
-🔍 Specialization:
+🔍 My UG Projects
    - F.Y. BSc: Pir Security System
    - S.Y. BSc: Road Power Generator
    - T.Y. BSc: Home Automation using Google Assistant
